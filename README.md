@@ -1,2 +1,2 @@
-# Projeto-2-Landing-Page-CCXP---Escola-DNC
-Projeto prático desenvolvido em aula
+# Atividade-landingPage-ccxp---Escola-DNC
+Atividade prática desenvolvida em aula
