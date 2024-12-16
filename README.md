@@ -1,7 +1,6 @@
-# atividade---FRONTEND---landingpage-ccxp---Escola-DNC
-
+# ccxp-ingressos-frontend
 ## Sobre o projeto
-Essa atividade trata-se de uma landingpage que simula uma area de venda de ingressos para a CCXP22
+Essa atividade é uma landingpage que simula uma area de venda de ingressos para a CCXP22
 
 Projeto hospedado em: https://rad-biscochitos-9b3226.netlify.app/
 
